@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+Hi there 👋
+</p>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
